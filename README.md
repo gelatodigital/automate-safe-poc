@@ -1,7 +1,9 @@
 # Gelato Automate Safe transactions
 
-<video src='docs/automate-safe.mp4' width="320"></video>
 
+<a href="https://youtu.be/Auhz3WRNoAg" target="_blank">
+ <img src="docs/0.jpeg" alt="Watch the video" width="240"/>
+</a>
 
 ## Summary
 
